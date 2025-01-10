@@ -1,6 +1,6 @@
 # 🌟 Smart Waste Segregation and Recycling Ecosystem 🌟
 
-![Project Banner]([https://via.placeholder.com/800x200?text=Smart+Waste+Segregation+and+Recycling+Ecosystem](https://greensutra.in/wp-content/uploads/2019/08/Waste-Management-Services-by-Team-GreenSutra.jpg))
+![Project Banner]([[https://via.placeholder.com/800x200?text=Smart+Waste+Segregation+and+Recycling+Ecosystem](https://greensutra.in/wp-content/uploads/2019/08/Waste-Management-Services-by-Team-GreenSutra.jpg)](https://greensutra.in/wp-content/uploads/2023/01/Waste-Management-Solutions-by-Team-GreenSutra-India.png))
 
 ## *About the Project*
 We are *Team TerraHaul* from Ajeenkya D.Y. Patil University, Pune—*Deven Mane*, *Anant Raj*, and *Radhika Ingle* from G.H. Raisoni Education Society, proud Grand Finalist Participants of the *CodeRed'25 Hackathon at BMIT&M Bangalore*. 🌍✨
