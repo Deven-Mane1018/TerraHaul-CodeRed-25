@@ -1,6 +1,5 @@
 # 🌟 Smart Waste Segregation and Recycling Ecosystem 🌟
 
-![Project Banner]([[https://via.placeholder.com/800x200?text=Smart+Waste+Segregation+and+Recycling+Ecosystem](https://greensutra.in/wp-content/uploads/2019/08/Waste-Management-Services-by-Team-GreenSutra.jpg)](https://greensutra.in/wp-content/uploads/2023/01/Waste-Management-Solutions-by-Team-GreenSutra-India.png))
 
 ## *About the Project*
 We are *Team TerraHaul* from Ajeenkya D.Y. Patil University, Pune—*Deven Mane*, *Anant Raj*, and *Radhika Ingle* from G.H. Raisoni Education Society, proud Grand Finalist Participants of the *CodeRed'25 Hackathon at BMIT&M Bangalore*. 🌍✨
@@ -125,9 +124,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 | *Member*      | *Role*                | *LinkedIn*                     |
 |------------------|-------------------------|-----------------------------------|
-| *Deven Mane*  | AI Specialist, Developer | [LinkedIn Profile](#https://www.linkedin.com/in/deven-mane-73564b321) |
-| *Anant Raj*   | Backend Developer        | [LinkedIn Profile](#https://www.linkedin.com/in/anant-raj-406a07285)  |
-| *Radhika Ingle* | Frontend Developer     | [LinkedIn Profile](#https://www.linkedin.com/in/radhika-ingle-b3737128a) |
+| *Deven Mane*  | AI Specialist, Developer | [LinkedIn Profile](https://www.linkedin.com/in/deven-mane-73564b321) |
+| *Anant Raj*   | Backend Developer        | [LinkedIn Profile](https://www.linkedin.com/in/anant-raj-406a07285)  |
+| *Radhika Ingle* | Frontend Developer     | [LinkedIn Profile](https://www.linkedin.com/in/radhika-ingle-b3737128a) |
 
 ---
 
@@ -139,4 +138,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-![Thank You]([https://via.placeholder.com/800x100?text=Thank+You+for+Your+Support!](https://i.pinimg.com/736x/b3/20/9d/b3209d0b939d76704a9ffff305c33ef7.jpg))
+![Thank You]
