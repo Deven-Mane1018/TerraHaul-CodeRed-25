@@ -1,11 +1,11 @@
 # 🌟 Smart Waste Segregation and Recycling Ecosystem 🌟
 
-![Project Banner](https://via.placeholder.com/800x200?text=Smart+Waste+Segregation+and+Recycling+Ecosystem)
+![Project Banner]([https://via.placeholder.com/800x200?text=Smart+Waste+Segregation+and+Recycling+Ecosystem](https://greensutra.in/wp-content/uploads/2019/08/Waste-Management-Services-by-Team-GreenSutra.jpg))
 
 ## *About the Project*
-We are *Team TerraHaul* from Ajeenkya D.Y. Patil University, Pune—*Deven Mane, **Anant Raj, and **Radhika Ingle, proud Grand Finalist Participants of the **CodeRed'25 Hackathon at BMIT&M Bangalore*. 🌍✨
+We are *Team TerraHaul* from Ajeenkya D.Y. Patil University, Pune—*Deven Mane*, *Anant Raj*, and *Radhika Ingle* from G.H. Raisoni Education Society, proud Grand Finalist Participants of the *CodeRed'25 Hackathon at BMIT&M Bangalore*. 🌍✨
 
-Our groundbreaking project aims to tackle one of the most pressing issues of our time: *waste management. The **Smart Waste Segregation and Recycling Ecosystem* is an *AI-powered, multilingual, user-friendly* solution that makes waste segregation simple, rewarding, and impactful. 🌱💡
+Our groundbreaking project *Smart Sort* aims to tackle one of the most pressing issues of our time: *waste management*. The *Smart Waste Segregation and Recycling Ecosystem* is an *AI-powered, multilingual, user-friendly* solution that makes waste segregation simple, rewarding, and impactful. 🌱💡
 
 ---
 
@@ -53,25 +53,12 @@ Our groundbreaking project aims to tackle one of the most pressing issues of our
 
 ## *Technologies Used*
 
-- *AI/ML*: TensorFlow, OpenCV
-- *Mobile Development*: React Native
+- *AI/ML*: TensorFlow, OpenCV, YOLO, StreamLit, PyTorch, Pillow
+- *Mobile Development*: Android Studio, Flutter, Dart
 - *Backend*: Node.js, Express.js
-- *Geolocation Services*: Google Maps API
+- *Geolocation Services*: Google Maps API, Gemini API
 - *Database*: MongoDB
-- *Deployment*: Firebase
-
----
-
-## *Architecture*
-mermaid
-graph TD
-    A[User captures waste image] --> B[AI Model Classifies Waste]
-    B --> C[Category: Recyclable/Organic/Hazardous]
-    C --> D[Geolocation API suggests facilities]
-    D --> E[Provide real-time environmental metrics]
-    E --> F[Recommend sustainable practices]
-    F --> G[Reward users with tokens]
-
+- *Deployment*: N/A
 
 ---
 
@@ -106,21 +93,6 @@ graph TD
 4. Follow actionable recommendations for better waste management. 🌟
 5. Earn rewards and track your contributions! 🎁
 
----
-
-## *Screenshots*
-
-### *Home Screen*
-![Home Screen](https://via.placeholder.com/500x300?text=Home+Screen)
-
-### *Waste Classification*
-![Classification Screen](https://via.placeholder.com/500x300?text=Classification+Screen)
-
-### *Geolocation Suggestions*
-![Geolocation Screen](https://via.placeholder.com/500x300?text=Geolocation+Screen)
-
-### *Reward System*
-![Reward Screen](https://via.placeholder.com/500x300?text=Reward+Screen)
 
 ---
 
@@ -153,18 +125,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 | *Member*      | *Role*                | *LinkedIn*                     |
 |------------------|-------------------------|-----------------------------------|
-| *Deven Mane*  | AI Specialist, Developer | [LinkedIn Profile](#)           |
-| *Anant Raj*   | Backend Developer        | [LinkedIn Profile](#)           |
-| *Radhika Ingle* | Frontend Developer     | [LinkedIn Profile](#)           |
+| *Deven Mane*  | AI Specialist, Developer | [LinkedIn Profile](#https://www.linkedin.com/in/deven-mane-73564b321#) |
+| *Anant Raj*   | Backend Developer        | [LinkedIn Profile](#https://www.linkedin.com/in/anant-raj-406a07285#)  |
+| *Radhika Ingle* | Frontend Developer     | [LinkedIn Profile](#https://www.linkedin.com/in/radhika-ingle-b3737128a#) |
 
 ---
 
 ## *Acknowledgments*
 
 - *CodeRed'25 Hackathon Team* for the incredible opportunity.
-- *BMIT&M Bangalore* for hosting this event.
+- *BMIST&M Bangalore* for hosting this event.
 - Our mentors, peers, and the community for their invaluable support.
 
 ---
 
-![Thank You](https://via.placeholder.com/800x100?text=Thank+You+for+Your+Support!)
+![Thank You]([https://via.placeholder.com/800x100?text=Thank+You+for+Your+Support!](https://i.pinimg.com/736x/b3/20/9d/b3209d0b939d76704a9ffff305c33ef7.jpg))
