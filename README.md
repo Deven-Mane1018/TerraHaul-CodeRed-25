@@ -125,9 +125,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 | *Member*      | *Role*                | *LinkedIn*                     |
 |------------------|-------------------------|-----------------------------------|
-| *Deven Mane*  | AI Specialist, Developer | [LinkedIn Profile](#LinkedIn https://www.linkedin.com/in/deven-mane-73564b321) |
-| *Anant Raj*   | Backend Developer        | [LinkedIn Profile](#https://www.linkedin.com/in/anant-raj-406a07285#)  |
-| *Radhika Ingle* | Frontend Developer     | [LinkedIn Profile](#https://www.linkedin.com/in/radhika-ingle-b3737128a#) |
+| *Deven Mane*  | AI Specialist, Developer | [LinkedIn Profile](#https://www.linkedin.com/in/deven-mane-73564b321) |
+| *Anant Raj*   | Backend Developer        | [LinkedIn Profile](#https://www.linkedin.com/in/anant-raj-406a07285)  |
+| *Radhika Ingle* | Frontend Developer     | [LinkedIn Profile](#https://www.linkedin.com/in/radhika-ingle-b3737128a) |
 
 ---
 
